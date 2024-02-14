@@ -1,4 +1,4 @@
-# slashmark_project1
+# slashmark_basic_project
 Task 1 : Prompts to make Text to Art 
 - Text Prompt : an illustration of a baby daikon radish in a tutu walking a dog
 - Text Prompt : an armchair in the shape of an avocado.
